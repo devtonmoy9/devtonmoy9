@@ -79,13 +79,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtonmoy9&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=2D9CFF&line=2D9CFF&point=FFFFFF" alt="Activity Graph" />
 </p>
 
-  
-## 🎵 Spotify Playing (Animated)
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v3m3vhlzqxqy4z7p4p4p4p4p4&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=false" width="50%" />
-</p>
-
+ 
 ---
 
 ## 🤝 Connect With Me
