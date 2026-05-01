@@ -91,7 +91,7 @@
   <a href="https://www.facebook.com/tonmoy.ahamed.479135">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:turzoahamed2009@gmail.com">
+  <a href="mailto:tonmoyahamed159@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/devtonmoy9">
@@ -101,9 +101,7 @@
 
 <p align="center">
   📞 <strong>+880 1622 564462</strong><br />
-  ✉️ <strong>turzoahamed2009@gmail.com</strong><br />
-  💼 <strong>LinkedIn: /in/tonmoy-ahamed</strong><br />
-  📘 <strong>Facebook: /tonmoy.ahamed.479135</strong>
+  ✉️ <strong>tonmoyahamed159@gmail.com</strong><br />
 </p>
 
 ---
@@ -115,7 +113,7 @@
 </p>
 
 ---
- 
+
 ## 🎯 Current Focus
 
 ```javascript
