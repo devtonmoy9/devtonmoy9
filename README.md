@@ -79,7 +79,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devtonmoy9&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=2D9CFF&line=2D9CFF&point=FFFFFF" alt="Activity Graph" />
 </p>
 
- 
+
 ---
 
 ## 🤝 Connect With Me
@@ -115,6 +115,9 @@
 </p>
 
 ---
+
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 🎯 Current Focus
 
